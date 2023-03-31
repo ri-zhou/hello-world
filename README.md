@@ -5,6 +5,7 @@ Learning to use github properly
 1. first item
 2. second item
 3. third item
+4. MY FOURTH ITEM
 ---
 
 [test link](www.google.com)
